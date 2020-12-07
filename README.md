@@ -5,7 +5,6 @@ This portfolio is a compilation of Jupyter Notebooks intended to showcase my ong
 
 ## Regression
 
--------
 ### House Prices: Advanced Linear Regression with NLME in R
 
 [Github](https://github.com/charlesmdunn/LMM-Demo)  [nbviwewer](https://nbviewer.jupyter.org/github/charlesmdunn/LMM-Demo/blob/main/LMM%20Notebook2.ipynb)
