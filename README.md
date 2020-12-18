@@ -1,7 +1,7 @@
 # Statistics and Data Science Portfolio by Charles Dunn
 
 This portfolio is a compilation of Jupyter Notebooks intended to showcase my ongoing research into statistics and data visualization.
-
+**To view a project's writeup click nbviewer**
 
 ## Regression
 
@@ -14,6 +14,5 @@ This portfolio is a compilation of Jupyter Notebooks intended to showcase my ong
 
 ### Analysis of Web Bounce Times: When _Not_ to use Mixed Models
 
-[Github](https://github.com/charlesmdunn/LMM-Demo2) [nbviewer](https://www.tutorialspoint.com/jupyter/sharing_jupyter_notebook_using_github_and_nbviewer.htm)
-
+[Github](https://github.com/charlesmdunn/LMM-Demo2) [nbviewer](https://nbviewer.jupyter.org/github/charlesmdunn/LMM-Demo2/blob/main/lmm2.ipynb)
 This is my own analysis of a dataset aimed at predicting web bounce times for cooking websites based on age across eigth different UK counties. I came across the dataset after seeing someone (somewhat naiively) analyzing it via a linear mixed effect model. However, rather than being another example of the power of these models, it turned out to be a great example of how easily they can be misused, and misinterpreted.
